@@ -1,4 +1,4 @@
-# 👋 Selamat datang di makan bang
+# 👋 Selamat datang di Profil Saya
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/197050986?s=400&u=d4f7e12c659352de9193b0fd8ec5c826585e3551&v=4" alt="Foto Profil" width="200" style="border-radius: 50%;"/>
@@ -31,13 +31,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/isal_yud">
-    <img src="https://img.shields.io/badge/-@isal_yud-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-@isal_yud-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-@yourhandle-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/-@yourhandle-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/yourname">
-    <img src="https://img.shields.io/badge/-@yourname-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-@yourname-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -64,6 +64,20 @@
 
 ---
 
-### 👨‍💻 Kontribusi GitHub Saya
+# 👨‍💻 Kontribusi GitHub Saya
 
-![Grafik Kontribusi GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=yudha-web&theme=github)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yudha-web&theme=github" alt="Grafik Kontribusi GitHub"/>
+</p>
+
+<style>
+  h1 {
+    animation: bounce 2s infinite;
+  }
+
+  @keyframes bounce {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+    100% { transform: translateY(0); }
+  }
+</style>
