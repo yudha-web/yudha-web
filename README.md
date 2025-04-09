@@ -23,9 +23,9 @@
 
 ### 💻 [Proyek Hebat Saya](https://github.com/yudha-web/awesome-project)
 
-![Banner Proyek Hebat](https://user-images.githubusercontent.com/123456789/awesome-project.png)
+![Banner Proyek Hebat](https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/91/MTA-165220731/no-brand_no-brand_full01.jpg)
 
-[![Lencana Proyek](https://img.shields.io/badge/Proyek%20-%20Proyek%20Hebat%20Saya-%23E4405F?style=for-the-badge)](https://github.com/yudha-web/awesome-project)
+[![Lencana Proyek](https://tse2.mm.bing.net/th?id=OIP.zqQ5T3a_ylAjHnY8oTmRYQHaIJ&pid=Api&P=0&h=180)](https://github.com/yudha-web/awesome-project)
 
 ## 🤝 Terhubung dengan Saya
 
@@ -64,20 +64,8 @@
 
 ---
 
-# 👨‍💻 Kontribusi GitHub Saya
+## 👨‍💻 Kontribusi GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yudha-web&theme=github" alt="Grafik Kontribusi GitHub"/>
+  <img src="https://tse4.mm.bing.net/th?id=OIP.DfL8S3SBj0NfhyGn4r727gHaEm&pid=Api&P=0&h=180" alt="GitHub Contribution Graph"/>
 </p>
-
-<style>
-  h1 {
-    animation: bounce 2s infinite;
-  }
-
-  @keyframes bounce {
-    0% { transform: translateY(0); }
-    50% { transform: translateY(-20px); }
-    100% { transform: translateY(0); }
-  }
-</style>
