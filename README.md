@@ -15,7 +15,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.instagram.com/nandaaa_79"><img src="https://img.shields.io/badge/-@nandaaa_79-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="ig"/> </a>
+<a href="https://www.instagram.com/isal_yud"><img src="https://img.shields.io/badge/-@nandaaa_79-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="ig"/> </a>
 
 <!--
 **yudha-web/yudha-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
